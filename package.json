@@ -1,0 +1,19 @@
+{
+  "name": "be.mhgamework.asyncroutines",
+  "version": "0.1.0",
+  "displayName": "MHGameWorks's Async Routines",
+  "description": "Better coroutines that support return values using async/await",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+ "keywords": [
+	"await",
+    "async",
+    "coroutines"
+  ],
+  "author": {
+    "name": "Michiel Huygen",
+    "email": "mhgamework@gmail.com",
+    "url": "https://www.michielhuygen.be"
+  },
+  "testables": ["be.mhgamework.asyncroutines.Tests","be.mhgamework.asyncroutines.Editor.Tests"]
+}

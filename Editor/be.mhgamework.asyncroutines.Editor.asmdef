@@ -1,0 +1,6 @@
+{
+  "name": "be.mhgamework.asyncroutines.Editor",
+  "references": ["be.mhgamework.asyncroutines"],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": []
+}

@@ -1,0 +1,9 @@
+{
+  "name": "be.mhgamework.asyncroutines.Editor.Tests",
+  "references": ["be.mhgamework.asyncroutines.Editor","be.mhgamework.asyncroutines"],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": []
+}
